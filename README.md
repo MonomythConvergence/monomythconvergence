@@ -46,9 +46,6 @@
     <br>
     Pet project: Once the necessity to pick up the backend and QA basics to better fit the market needs lets up a little I'm going back to my Ktor JWT basic auth app (currently frozen, open but not pinned)
 
- <h3>🗣️📧📞Contact me</h3>
-Right here if this is where you found me. I'm not a fan on mixing communication channels, let's leave my email and phone pristine and unoccupied for the annoying spam mail and scammers respectively.
-    
 <br>
 <div style="text-align:center;">
   <img alt="README android bottom tray" src="bottom_tray.png"
