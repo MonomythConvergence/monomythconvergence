@@ -1,16 +1,16 @@
-## Hi there 👋
+<div style="background-color:#F5F5F5; padding:15px; text-align: center;">
+ <img alt="README top banner" src="top_banner.png">
+##'ello there 🫡🎩 \n
+  Welcome to my humble GH page. 
 
-<!--
-**MonomythConvergence/monomythconvergence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  🛠 Tech Stack
 
-Here are some ideas to get you started:
+    Languages: Kotlin (Native), Java (Legacy)
+    Architecture: MVVM, MVI, Clean Architecture
+    Frameworks: Jetpack Compose, Android SDK
+    Libraries: Hilt, Retrofit, Room, Coroutines
+    Tools: Firebase, Docker, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼✍️🖼️ Portfolio
+ <img alt="README android bottom tray" src="bottom_tray.png" style="width: 50%; max-width: 1400px;">
+</div>
