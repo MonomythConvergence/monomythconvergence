@@ -17,10 +17,10 @@
     Image Loading	Coil, Glide
     UI & Design	Material Design 3, Custom UI Components
     Authentication & Integration	Firebase Authentication, Google OAuth, PayPal Integration
-    Analytics	Firebase Analytics
+    Analytics	Firebase Analytics, Crashlytics
     Build & Compilation	KSP, Kapt
-    Version Control	Git, GitHub, GitLab
-    Development Tools	Android Studio, Docker
+    Version Control	Git, GitHub, GitLab, Forgejo
+    Development Tools	Android Studio/IDEA, Docker
     Backend Exposure	Spring Boot, Ktor
     Additional Skills	CI/CD Processes, Code Review Workflows, API Integration
 
