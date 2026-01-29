@@ -29,7 +29,7 @@
     Nonetheless, you can take a look at a few things I've done here and there if you don't mind them being a little dated.
     What I've got pinned: 
     <br>
-     #1:<b> Spring Boot tutorial</b> - my foray into Kotlin-based backend via Kotlinlang's tutorial. Which follows it to the T and only diverts to add a failsafe to RANDOM_UUID id gen approach and implements unit-testing
+     #1:<b> Spring Boot tutorial</b> - my foray into Kotlin-based backend via Kotlinlang's tutorial. Which follows it to the T and only diverts to add a failsafe to RANDOM_UUID id gen approach, spotlessApply and implements unit-testing
      <br>
      #2:<b> BINTestTask</b> - an app I learned Compose on, which is simultaneously my timed test task for joining a startup. Stack: Compose, MVVM , DI(Koin)&Persistence(Room DB) app working with BIN API through Retrofit+Moshi.
      <br>
