@@ -1,6 +1,9 @@
 
 <div style="background-color:#F8F8F8; padding:15px; text-align: center;">
+ <div align="center">
  <img alt="README top banner" src="top_banner.png">
+ </div>
+
  <h2>'ello there 🫡🎩</h2>
   Welcome to my humble GH page. 
   I'm an Android dev based in RU, writing in Kotlin. trudging along towards my goal of <del>landing a job</del> being a full-fledged mobile dev (Kotlin Fullstack with Multi-platform, QA, Design and Team lead competencies)
@@ -47,7 +50,7 @@
     Pet project: Once the necessity to pick up the backend and QA basics to better fit the market needs lets up a little I'm going back to my Ktor JWT basic auth app (currently frozen, open but not pinned)
 
 <br>
-<div style="text-align:center;">
+<div align="center">
   <img alt="README android bottom tray" src="bottom_tray.png"
        style="width:33%; max-width:1400px; display:inline-block;">
 </div>
