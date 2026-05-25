@@ -38,7 +38,7 @@
      <br>
      #3:  <b>practicum-android-diploma</b> My first ever team project - MVVM+XML-based module-structure app that fetches job posting from hh.ru. More of a memorabilia at this point, regrettably Stack: XML, MVVM + Feature Modules,  Glide/Retrofit/Koin/NavGraph
      <br>
-     #4:  <b>Playlist-Maker</b> My very first Kotlin project - fetches ITunes API's previews to facilitate local storage of tracks w/their meta-data and previews (playable via MediaPlayer) Stack: XML, MVVM,  Glide/Retrofit/Koin/NavGraph
+     #4:  <b>Selenide AQA study project</b> Basic Yandex Market-based project on Java+Selenide w/Allure and JavaDocs.
 
  <h3>🌱📈💪 Current focus</h3>
     Reading: Kotlin in Action (Ktor in Action next!)
