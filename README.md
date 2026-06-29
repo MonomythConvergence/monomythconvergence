@@ -49,10 +49,11 @@
      <br>
      #3:<b>practicum-android-diploma</b> My first ever team project - MVVM+XML-based module-structure app that fetches job posting from hh.ru. More of a memorabilia at this point. Stack: XML, MVVM + Feature Modules,  Glide/Retrofit/Koin/NavGraph.
      <br>
-     #4:<b>Yandex Market QA Suite on Selenide</b> Basic Yandex Market-based AQA study project on Java+Selenide w/Allure and JavaDocs.
+     #4:<b>Yandex Market QA Suite on Selenide</b> Basic Yandex Market-based AQA study project on Java+Selenide w/Allure and JavaDocs.See also: https://github.com/MonomythConvergence/yandex-home-search-aqa - application of what I've learned for a test task, but with a smaller scope
      <br>
      #5:<b>REST API AQA with RestAssured and testNG</b> testNG+RestAssured AQA API test suite.
-     #6:<b>Yandex Crowd test task</b> same stack as #4 but used for a real task.
+     <br>
+     #6:<b>CliccAppiumTestSuite</b> WIP. Appium-framework test suite for an apk of Click_Switch by cuadratico
 
  <h3>🌱📈💪 Current focus</h3>
     Setting up my first Appium project
